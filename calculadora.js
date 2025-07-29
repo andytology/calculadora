@@ -34,3 +34,4 @@ function dividir() {
     mostrarResultado(a / b);
   }
 }
+// Comentario agregado desde GitHub
